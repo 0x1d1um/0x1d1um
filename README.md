@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @KiwwyQ
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning coding
-- 📫 How to reach me ()
+- :octocat: hi, im KiwwyQ
+- 📫 how to contact me:<b> email </b>
+<img src="https://img.shields.io/github/followers/KiwwyQ?style=social"/>
 
 <!---
 KiwwyQ/KiwwyQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
