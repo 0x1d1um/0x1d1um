@@ -22,4 +22,6 @@
 <div align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=KiwwyQ&theme=hacker"></img><br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiwwyQ&layout=compact&theme=vision-friendly-dark"></img>
-</div>
+</div><br><br>
+<b>:trophy: My Trophies:</b><br><br>
+<img src="https://github-profile-trophy.vercel.app/?username=KiwwyQ&column=7&theme=onedark" />
