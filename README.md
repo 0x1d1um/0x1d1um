@@ -5,8 +5,8 @@
   <b>0x1d1um</b><br>
   <img src="https://img.shields.io/github/followers/KiwwyQ?style=social"/><br>
   <img src="https://komarev.com/ghpvc/?username=KiwwyQ&style=flat-square"</img><br>
-  ✨ <b> im KiwwyQ and i like to code :3</b> ✨<br><br>
-  :octocat: <b> im currently learning, but i already can do some things </b> :octocat: <br><br><br>
+  ✨ <b> im 0x1d1um and i like to code :3</b> ✨<br><br>
+  :octocat: <b> im currently learning, but i already can do most things </b> :octocat: <br><br><br>
 </div>
 <b>:hammer_and_wrench: Languages and Tools :<b>
 <div align="center">
